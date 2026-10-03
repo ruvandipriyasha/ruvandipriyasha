@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090B1A,30:15152D,60:3A285C,100:087F8F&text=RUVANDI%20PRIYASHA&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=WEB%20DEVELOPER%20INTERN%20%E2%80%A2%20HNDIT%20UNDERGRADUATE&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<br>
 
-<img src="https://github.com/ruvandipriyasha.png" width="135" height="135" style="border-radius:50%;"/>
+
 
 <br><br>
 
